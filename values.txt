@@ -1,2 +1,3 @@
 landmanager.cfg general.client D:areaBoxAlpha=0.1010101
-ironchest.cfg "enable-disable" "B:Enable Shulker Box Recipes=false"
+ironchest.cfg "enable-disable" B:"Enable Shulker Box Recipes"=false
+test.cfg "category name" B:"testing"=false
